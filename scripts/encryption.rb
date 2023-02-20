@@ -4,5 +4,5 @@
 
 # TODO:
 # 1. encrypt a secret and puts encrypted string
-# 2. decrypt the encrypted string
-# 3. check if decrypted value matches secret
+# 2. prepare encrypted string for testing
+# 3. test secret against prepared encrypted string
